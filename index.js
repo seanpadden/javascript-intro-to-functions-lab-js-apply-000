@@ -17,5 +17,8 @@ describe('logShout(string)', function() {
     console.log.restore()
     
 function logShout(string) {
-  return logShout.
+  return logShout.toUpperCase(console.log()) 
+}
+function spyOn() {
+  
 }
