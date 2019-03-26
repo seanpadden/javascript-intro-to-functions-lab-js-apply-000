@@ -16,4 +16,6 @@ describe('logShout(string)', function() {
 
     console.log.restore()
     
-function logShout(string)
+function logShout(string) {
+  return logShout.
+}
